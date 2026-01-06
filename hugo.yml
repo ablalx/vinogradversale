@@ -1,5 +1,6 @@
-baseURL: https://example.org/
-# baseURL: https://ablalx.github.io/vinogradversale/
+#baseURL: https://example.org/
+#baseURL: https://ablalx.github.io/vinogradversale/
+baseURL: https://ablalx.github.io/
 languageCode: Ru-ru
 languageName: ru
 defaultContentLanguage: ru
