@@ -1,0 +1,15 @@
+baseURL: https://example.org/
+# baseURL: https://ablalx.github.io/vinogradversale/
+languageCode: Ru-ru
+languageName: ru
+defaultContentLanguage: ru
+# paginate: 100 #frontpage pagination
+title: Виноград в Версале
+theme: ["PaperMod"]
+# enableGitInfo: true
+
+# languageName: ru
+# defaultContentLanguage: ru
+# paginate: 100 #frontpage pagination
+# theme: ["PaperMod"]
+# enableGitInfo: true
